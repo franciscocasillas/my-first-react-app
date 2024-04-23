@@ -1,5 +1,6 @@
 .contenedor-testimonio {
-	width: 100%;
+	min-width: 1117;
+	max-width: 100%;
 	height: 300px;
 	margin: 10px 10px 50px;
 	display: flex;
